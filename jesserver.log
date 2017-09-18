@@ -1,0 +1,466 @@
+
+2017-09-13 17:26:01,979 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-13 17:26:01,980 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-13 17:28:02,000 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-13 17:28:02,001 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-13 17:30:01,872 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-13 17:30:01,872 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-13 17:31:29,156 - jes-bg - INFO - The disk usage is 1.000000
+2017-09-13 17:31:29,156 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-13 17:31:35,019 - jes-bg - INFO - The disk usage is 1.300000
+2017-09-13 17:31:35,019 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-13 17:31:35,019 - jes-bg - INFO - get warning
+2017-09-13 17:31:35,079 - jes-bg - INFO - select unused fs is ['155', '04316714-77c2-4833-9b7c-c6a9ffc29bdc']
+2017-09-13 17:31:35,153 - jes-bg - INFO - Error, please change another usused fs
+2017-09-13 17:31:35,154 - jes-bg - INFO - select running fs is ['148', '451d790e-bbb7-4a11-aab4-c207fd0f7a47', '975698030592']
+2017-09-13 17:37:53,195 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-13 17:37:53,195 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-13 17:42:37,176 - jes-bg - INFO - The disk usage is 4.300000
+2017-09-13 17:42:37,176 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-13 17:42:37,176 - jes-bg - INFO - get warning
+2017-09-13 17:42:37,235 - jes-bg - INFO - select unused fs is ['155', '04316714-77c2-4833-9b7c-c6a9ffc29bdc']
+2017-09-13 17:42:37,312 - jes-bg - INFO - Error, please change another usused fs
+2017-09-13 17:50:05,078 - jes-bg - INFO - The disk usage is 6.100000
+2017-09-13 17:50:05,079 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-13 17:50:05,079 - jes-bg - INFO - get warning
+2017-09-13 17:50:05,140 - jes-bg - INFO - select unused fs is ['155', '04316714-77c2-4833-9b7c-c6a9ffc29bdc']
+2017-09-13 17:50:05,166 - jes-bg - INFO - Error, please change another usused fs
+2017-09-13 17:50:21,486 - jes-bg - INFO - The disk usage is 6.100000
+2017-09-13 17:50:21,486 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-13 17:50:21,486 - jes-bg - INFO - get warning
+2017-09-13 17:50:21,548 - jes-bg - INFO - select unused fs is ['155', '04316714-77c2-4833-9b7c-c6a9ffc29bdc']
+2017-09-13 17:50:21,898 - jes-bg - INFO - ok, mv the fs to default
+2017-09-13 17:50:21,902 - jes-bg - INFO - select running fs is ['148', '451d790e-bbb7-4a11-aab4-c207fd0f7a47', '963316989952']
+2017-09-13 17:55:21,346 - jes-bg - INFO - The disk usage is 5.300000
+2017-09-13 17:55:21,346 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-13 17:55:21,347 - jes-bg - INFO - get warning
+2017-09-13 17:55:21,405 - jes-bg - INFO - select unused fs is ['154', '218fd195-c322-48c5-890a-6f9eca180026']
+2017-09-13 17:55:38,676 - jes-bg - INFO - ok, mv the fs to default
+2017-09-13 17:55:38,680 - jes-bg - INFO - select running fs is ['148', '451d790e-bbb7-4a11-aab4-c207fd0f7a47', '963316989952']
+2017-09-14 11:00:01,924 - jes-bg - INFO - The disk usage is 3.300000
+2017-09-14 11:00:01,925 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:00:01,925 - jes-bg - INFO - get warning
+2017-09-14 11:00:01,987 - jes-bg - INFO - select unused fs is ['21', '743cc0a4-07ee-4070-903a-07be53648cad']
+2017-09-14 11:00:19,369 - jes-bg - INFO - ok, mv the fs to default
+2017-09-14 11:00:19,376 - jes-bg - INFO - select running fs is ['4', '9ab02919-3878-4861-bb29-762ceb343502', '986778804224']
+2017-09-14 11:02:01,819 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:02:01,820 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:04:01,719 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:04:01,720 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:06:01,702 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:06:01,702 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:08:01,740 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:08:01,741 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:10:01,929 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:10:01,929 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:12:01,905 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:12:01,905 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:14:01,917 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:14:01,917 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:16:01,999 - jes-bg - INFO - The disk usage is 4.200000
+2017-09-14 11:16:01,999 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:16:01,999 - jes-bg - INFO - get warning
+2017-09-14 11:16:02,060 - jes-bg - INFO - select unused fs is ['20', '92d9e75b-b0bb-46db-a9b1-870c62aea28f']
+2017-09-14 11:16:18,786 - jes-bg - INFO - ok, mv the fs to default
+2017-09-14 11:16:18,794 - jes-bg - INFO - select running fs is ['4', '9ab02919-3878-4861-bb29-762ceb343502', '978709110784']
+2017-09-14 11:18:02,047 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:18:02,047 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:20:01,825 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:20:01,826 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:22:01,848 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:22:01,848 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:24:01,253 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:24:01,253 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:26:01,265 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:26:01,265 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:28:01,264 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:28:01,264 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:30:01,460 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:30:01,461 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:32:01,556 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:32:01,557 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:34:01,618 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:34:01,619 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:36:01,606 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:36:01,606 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:38:01,765 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:38:01,765 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:40:01,788 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:40:01,788 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:42:01,802 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:42:01,802 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:44:01,276 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:44:01,276 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:46:01,385 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:46:01,385 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:48:01,387 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:48:01,387 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:50:01,405 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:50:01,405 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:52:01,979 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:52:01,979 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:54:02,046 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:54:02,046 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:56:02,048 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:56:02,048 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 11:58:01,649 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 11:58:01,650 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:00:01,669 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:00:01,669 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:02:01,773 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:02:01,773 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:04:01,748 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:04:01,748 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:06:01,774 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:06:01,775 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:08:01,801 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:08:01,801 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:10:01,839 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:10:01,839 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:12:01,814 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:12:01,814 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:14:01,819 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:14:01,819 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:16:01,945 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:16:01,945 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:18:01,945 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:18:01,945 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:20:02,075 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:20:02,076 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:22:01,493 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:22:01,493 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:24:01,698 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:24:01,699 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:26:01,709 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:26:01,709 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:28:01,740 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:28:01,740 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:30:01,821 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:30:01,821 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:32:01,806 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:32:01,806 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:34:01,841 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:34:01,841 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:36:01,811 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:36:01,811 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:38:01,949 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:38:01,949 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:40:01,685 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:40:01,685 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:42:01,686 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:42:01,687 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:44:01,649 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:44:01,649 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:46:01,692 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:46:01,692 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:48:01,734 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:48:01,735 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:50:01,741 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:50:01,741 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:52:01,776 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:52:01,777 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:54:01,929 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:54:01,930 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:56:02,013 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:56:02,013 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 12:58:01,983 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 12:58:01,983 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:00:01,996 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:00:01,996 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:02:01,367 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:02:01,368 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:04:01,579 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:04:01,579 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:06:01,599 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:06:01,599 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:08:01,621 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:08:01,621 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:22:01,300 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:22:01,300 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:24:01,377 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:24:01,378 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:26:01,628 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:26:01,628 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:28:01,600 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:28:01,601 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:30:01,611 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:30:01,612 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:32:01,617 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:32:01,618 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:34:01,628 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:34:01,628 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:36:01,648 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:36:01,648 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:38:01,871 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:38:01,872 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:40:01,896 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:40:01,896 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:42:01,911 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:42:01,911 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:44:01,266 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:44:01,266 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:46:01,245 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:46:01,245 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:48:01,239 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:48:01,239 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:50:01,253 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:50:01,254 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:52:01,855 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:52:01,855 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:54:02,049 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:54:02,049 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:56:01,115 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:56:01,115 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 13:58:01,128 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 13:58:01,128 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:00:01,148 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:00:01,148 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:02:01,179 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:02:01,179 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:04:01,168 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:04:01,168 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:06:01,163 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:06:01,163 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:08:01,146 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:08:01,146 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:10:01,199 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:10:01,199 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:12:01,222 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:12:01,223 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:14:01,231 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:14:01,231 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:16:01,242 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:16:01,243 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:18:01,348 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:18:01,348 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:20:01,491 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:20:01,492 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:22:01,521 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:22:01,521 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:24:01,493 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:24:01,494 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:26:01,215 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:26:01,216 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:28:01,228 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:28:01,229 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:30:01,234 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:30:01,234 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:32:01,830 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:32:01,831 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:34:01,926 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:34:01,926 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:36:01,928 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:36:01,928 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:38:01,911 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:38:01,911 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:40:01,923 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:40:01,924 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:42:01,092 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:42:01,093 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:44:01,118 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:44:01,118 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:46:01,115 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:46:01,116 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:48:01,125 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:48:01,126 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:50:01,113 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:50:01,113 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:52:01,186 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:52:01,186 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:54:01,173 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:54:01,173 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:56:01,412 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:56:01,412 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 14:58:01,508 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 14:58:01,508 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:00:01,499 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:00:01,499 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:02:01,961 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:02:01,961 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:04:02,074 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:04:02,074 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:06:01,688 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:06:01,689 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:08:01,663 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:08:01,663 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:10:01,747 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:10:01,748 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:12:01,742 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:12:01,742 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:14:01,750 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:14:01,750 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:16:01,725 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:16:01,725 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:18:01,728 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:18:01,728 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:20:01,715 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:20:01,715 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:22:01,749 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:22:01,749 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:24:01,778 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:24:01,778 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:26:01,783 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:26:01,784 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:28:01,763 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:28:01,763 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:30:01,791 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:30:01,792 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:32:01,797 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:32:01,797 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:34:01,832 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:34:01,832 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:36:01,844 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:36:01,844 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:38:01,954 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:38:01,954 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:40:01,960 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:40:01,960 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:42:01,094 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:42:01,094 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:44:02,085 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:44:02,085 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:46:02,084 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:46:02,084 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:48:01,153 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:48:01,153 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:50:01,218 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:50:01,218 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:52:01,231 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:52:01,231 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:54:01,231 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:54:01,231 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:56:01,239 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:56:01,240 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 15:58:01,248 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 15:58:01,248 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 16:00:01,323 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 16:00:01,323 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 16:20:01,727 - jes-bg - INFO - The disk usage is 2.200000
+2017-09-14 16:20:01,727 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 16:20:01,727 - jes-bg - INFO - get warning
+2017-09-14 16:20:01,777 - jes-bg - INFO - select unused fs is ['37', '451d790e-bbb7-4a11-aab4-c207fd0f7a47']
+2017-09-14 16:20:20,178 - jes-bg - INFO - ok, mv the fs to default
+2017-09-14 16:20:41,854 - jes-bg - INFO - select running fs is ['34', '9ab02919-3878-4861-bb29-762ceb343502', '991073771520']
+2017-09-14 16:22:02,135 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 16:22:02,135 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 16:24:01,100 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 16:24:01,100 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 16:26:02,077 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 16:26:02,077 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 16:46:01,873 - jes-bg - INFO - The disk usage is 0.000000
+2017-09-14 16:46:01,873 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 16:48:01,973 - jes-bg - INFO - The disk usage is 0.600000
+2017-09-14 16:48:01,973 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 16:50:02,175 - jes-bg - INFO - The disk usage is 1.300000
+2017-09-14 16:50:02,175 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 16:50:02,175 - jes-bg - INFO - get warning
+2017-09-14 16:50:02,238 - jes-bg - INFO - select unused fs is ['62', '451d790e-bbb7-4a11-aab4-c207fd0f7a47']
+2017-09-14 16:50:20,152 - jes-bg - INFO - ok, mv the fs to default
+2017-09-14 16:50:50,302 - jes-bg - INFO - select running fs is ['37', '6d18e369-c16f-4651-8a0c-dcfbe3c85388', '978205868032']
+2017-09-14 16:52:01,543 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 16:52:01,544 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 16:54:01,638 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 16:54:01,639 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 16:56:01,736 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 16:56:01,737 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 16:58:01,829 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 16:58:01,829 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:00:01,929 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:00:01,929 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:02:01,126 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:02:01,126 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:04:01,224 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:04:01,224 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:06:01,324 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:06:01,324 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:08:01,425 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:08:01,426 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:10:01,526 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:10:01,527 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:12:01,621 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:12:01,621 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:14:01,716 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:14:01,716 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:16:01,818 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:16:01,819 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:18:01,922 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:18:01,922 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:20:02,024 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:20:02,025 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:22:01,126 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:22:01,126 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:24:01,226 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:24:01,226 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:26:01,325 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:26:01,325 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:28:01,425 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:28:01,425 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:30:01,527 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:30:01,527 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:32:01,623 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:32:01,623 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:34:01,725 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:34:01,725 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:36:01,831 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:36:01,831 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:38:01,936 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:38:01,936 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:40:02,034 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:40:02,035 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:42:01,134 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:42:01,134 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:44:01,230 - jes-bg - INFO - The disk usage is 1.700000
+2017-09-14 17:44:01,230 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:44:01,230 - jes-bg - INFO - get warning
+2017-09-14 17:44:01,312 - jes-bg - INFO - select unused fs is ['61', '04316714-77c2-4833-9b7c-c6a9ffc29bdc']
+2017-09-14 17:44:01,414 - jes-bg - INFO - ok, mv the fs to default
+2017-09-14 17:45:01,532 - jes-bg - INFO - select running fs is ['37', '6d18e369-c16f-4651-8a0c-dcfbe3c85388', '978709110784']
+2017-09-14 17:46:01,238 - jes-bg - INFO - The disk usage is 1.700000
+2017-09-14 17:46:01,238 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:46:01,239 - jes-bg - INFO - get warning
+2017-09-14 17:46:01,305 - jes-bg - INFO - select unused fs is ['62', '451d790e-bbb7-4a11-aab4-c207fd0f7a47']
+2017-09-14 17:46:01,422 - jes-bg - INFO - ok, mv the fs to default
+2017-09-14 17:47:01,596 - jes-bg - INFO - select running fs is ['37', '6d18e369-c16f-4651-8a0c-dcfbe3c85388', '978709110784']
+2017-09-14 17:48:01,723 - jes-bg - INFO - The disk usage is 0.900000
+2017-09-14 17:48:01,723 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:49:15,941 - jes-bg - INFO - The disk usage is 1.700000
+2017-09-14 17:49:15,941 - jes-bg - INFO - The disk warning is 1.000000
+2017-09-14 17:49:15,941 - jes-bg - INFO - get warning
+2017-09-14 17:49:16,021 - jes-bg - INFO - select unused fs is ['62', '451d790e-bbb7-4a11-aab4-c207fd0f7a47']
+2017-09-14 17:49:16,376 - jes-bg - INFO - ok, mv the fs to default
+2017-09-14 17:49:16,709 - jes-bg - INFO - Begin to boot the fs, and set rw
+2017-09-14 17:49:16,714 - jes-bg - INFO - select running fs is ['37', '6d18e369-c16f-4651-8a0c-dcfbe3c85388', '978709110784']
+2017-09-14 18:02:17,017 - jes-bg - INFO - The disk usage is 0.170000
+2017-09-14 18:02:17,018 - jes-bg - INFO - The disk warning is 0.100000
+2017-09-14 18:02:17,018 - jes-bg - INFO - get warning
+2017-09-14 18:02:17,096 - jes-bg - INFO - select unused fs is ['62', '451d790e-bbb7-4a11-aab4-c207fd0f7a47']
+2017-09-14 18:02:17,464 - jes-bg - INFO - ok, mv the fs to default
+2017-09-14 18:02:17,812 - jes-bg - INFO - Begin to boot the fs, and set rw
+2017-09-14 18:02:17,817 - jes-bg - INFO - select running fs is ['37', '6d18e369-c16f-4651-8a0c-dcfbe3c85388', '978709110784']
+2017-09-15 09:31:52,161 - jes-bg - INFO - The disk usage is 0.340000
+2017-09-15 09:31:52,165 - jes-bg - INFO - The disk warning is 0.100000
+2017-09-15 09:31:52,165 - jes-bg - INFO - get warning
+2017-09-15 09:31:52,256 - jes-bg - INFO - select unused fs is ['62', '451d790e-bbb7-4a11-aab4-c207fd0f7a47']
+2017-09-15 09:31:52,257 - jes-bg - INFO - select unused fs is ['62', '451d790e-bbb7-4a11-aab4-c207fd0f7a47']
+2017-09-15 09:31:52,295 - jes-bg - INFO - Error, please change another usused fs
+2017-09-15 09:32:59,719 - jes-bg - INFO - The disk usage is 0.340000
+2017-09-15 09:32:59,719 - jes-bg - INFO - The disk warning is 0.100000
+2017-09-15 09:32:59,719 - jes-bg - INFO - get warning
+2017-09-15 09:32:59,806 - jes-bg - INFO - select unused fs is ['62', '451d790e-bbb7-4a11-aab4-c207fd0f7a47']
+2017-09-15 09:32:59,806 - jes-bg - INFO - select unused fs is ['62', '451d790e-bbb7-4a11-aab4-c207fd0f7a47']
+2017-09-15 09:32:59,836 - jes-bg - INFO - Error, please change another usused fs
+2017-09-15 09:32:59,836 - jes-bg - INFO - select running fs is ['38', '55e43a39-26ba-4c19-957d-965487d5e15a', '967971647488', '/data52/jesd']
+2017-09-15 09:33:14,634 - jes-bg - INFO - The disk usage is 0.220000
+2017-09-15 09:33:14,634 - jes-bg - INFO - The disk warning is 0.100000
+2017-09-15 09:33:14,634 - jes-bg - INFO - get warning
+2017-09-15 09:33:14,725 - jes-bg - INFO - select unused fs is ['62', '451d790e-bbb7-4a11-aab4-c207fd0f7a47']
+2017-09-15 09:33:14,726 - jes-bg - INFO - select unused fs is ['62', '451d790e-bbb7-4a11-aab4-c207fd0f7a47']
+2017-09-15 09:33:14,751 - jes-bg - INFO - Error, please change another usused fs
+2017-09-15 09:33:14,752 - jes-bg - INFO - select running fs is ['37', '6d18e369-c16f-4651-8a0c-dcfbe3c85388', '978709110784', '/data51/jesd']
+2017-09-15 09:48:32,940 - jes-bg - INFO - The disk usage is 0.130000
+2017-09-15 09:48:32,940 - jes-bg - INFO - The disk warning is 0.100000
+2017-09-15 09:48:32,940 - jes-bg - INFO - get warning
+2017-09-15 09:48:33,019 - jes-bg - INFO - select unused fs is ['62', '451d790e-bbb7-4a11-aab4-c207fd0f7a47']
+2017-09-15 09:48:33,019 - jes-bg - INFO - select unused fs is ['62', '451d790e-bbb7-4a11-aab4-c207fd0f7a47']
+2017-09-15 09:48:33,047 - jes-bg - INFO - Error, please change another usused fs
+2017-09-15 09:48:33,047 - jes-bg - INFO - select running fs is ['61', '04316714-77c2-4833-9b7c-c6a9ffc29bdc', '983574458368', '/data78/jesd']
